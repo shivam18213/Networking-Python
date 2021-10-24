@@ -1,0 +1,9 @@
+www.google.com        10.20.30.40
+www.gmail.com         1.23.34.35
+www.linkedin.com      10.45.67.78
+www.youtube.com       21.76.34.56
+www.vit.ac.in         11.43.45.56
+www.india.gov.in      10.5.67.234
+www.researchgate.in   12.34.62.3
+www.yahoo.com         23.6.5.98
+www.facebook.com      11.34.45.67
